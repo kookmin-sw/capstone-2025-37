@@ -42,19 +42,19 @@
 ---
 
 ### 🌟 임상학
-<table>
+<table style="border: none;">
   <tr>
-    <td width="120">
-      <img src="./MDRes/LSH.png" alt="임상학" width="120">
+    <td width="150" style="padding: 5px;">
+      <img src="./MDRes/LSH.png" alt="임상학" width="150">
     </td>
-    <td>
-      <strong>학번</strong> : 20181251 <hr>
-      <strong>역할</strong> : 개발 <hr>
+    <td style="vertical-align: top; padding: 5px;">
+      <strong>학번</strong> : 20181251 <hr style="margin: 5px 0;">
+      <strong>역할</strong> : 개발 <hr style="margin: 5px 0;">
       <strong>이력</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 유니티 및 자체 엔진 제작 경험<hr>
+      <br>- 유니티 및 자체 엔진 제작 경험<hr style="margin: 5px 0;">
       <strong>연락처</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:09lsh16@kookmin.ac.kr">09lsh16@kookmin.ac.kr</a>  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/Will-Big">GitHub 페이지</a>  
+      <br>- 📧 Email: <a href="mailto:09lsh16@kookmin.ac.kr">09lsh16@kookmin.ac.kr</a>  
+      <br>- 💻 GitHub: <a href="https://github.com/Will-Big">GitHub 페이지</a>  
     </td>
   </tr>
 </table>
@@ -62,23 +62,23 @@
 ---
 
 ### 🎯 윤진호
-<table>
+<table style="border: none;">
   <tr>
-    <td width="120">
-      <img src="./MDRes/YJH.png" alt="윤진호" width="120">
+    <td width="150" style="padding: 5px;">
+      <img src="./MDRes/YJH.png" alt="윤진호" width="150">
     </td>
-    <td>
-      <strong>학번</strong> : 20222169 <hr>
-      <strong>역할</strong> : 기획 <hr>
+    <td style="vertical-align: top; padding: 5px;">
+      <strong>학번</strong> : 20222169 <hr style="margin: 5px 0;">
+      <strong>역할</strong> : 기획 <hr style="margin: 5px 0;">
       <strong>이력</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2022 CES 2023 AVALVE  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2023 KBO ESG 아이디어 경진 프로젝트 - 장려상  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2023 - 2024 몬스터 에너지 행사 기획 및 협찬  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2024 - sekisui house 미래 사업 프로젝트  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2024 - 2025 ASML KOREA<hr>
+      <br>- 2022 CES 2023 AVALVE  
+      <br>- 2023 KBO ESG 아이디어 경진 프로젝트 - 장려상  
+      <br>- 2023 - 2024 몬스터 에너지 행사 기획 및 협찬  
+      <br>- 2024 - sekisui house 미래 사업 프로젝트  
+      <br>- 2024 - 2025 ASML KOREA<hr style="margin: 5px 0;">
       <strong>연락처</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a>  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/yjhplanner">GitHub 페이지</a>  
+      <br>- 📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a>  
+      <br>- 💻 GitHub: <a href="https://github.com/yjhplanner">GitHub 페이지</a>  
     </td>
   </tr>
 </table>
@@ -86,24 +86,25 @@
 ---
 
 ### 🕹️ 조영서
-<table>
+<table style="border: none;">
   <tr>
-    <td width="120">
-      <img src="./MDRes/JYS.png" alt="조영서" width="120">
+    <td width="150" style="padding: 5px;">
+      <img src="./MDRes/JYS.png" alt="조영서" width="150">
     </td>
-    <td>
-      <strong>학번</strong> : 20191671 <hr>
-      <strong>역할</strong> : 개발 <hr>
+    <td style="vertical-align: top; padding: 5px;">
+      <strong>학번</strong> : 20191671 <hr style="margin: 5px 0;">
+      <strong>역할</strong> : 개발 <hr style="margin: 5px 0;">
       <strong>이력</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- Google Play 출시작 : 운빨 대장장이, 우지끈 낚시꾼  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 대외 전시 출품 : BIC, G-STAR, 타이페이 게임쇼 (전시작 DENEV)  <hr>
+      <br>- Google Play 출시작 : 운빨 대장장이, 우지끈 낚시꾼  
+      <br>- 대외 전시 출품 : BIC, G-STAR, 타이페이 게임쇼 (전시작 DENEV)  <hr style="margin: 5px 0;">
       <strong>연락처</strong>:  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:jysa000@naver.com">jysa000@naver.com</a>  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/jysa000">GitHub 페이지</a>  
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;- 🎮 Google Play: <a href="https://play.google.com/store/apps/dev?id=7689537255558713422&pli=1">Google Play 개발자 페이지</a>  
+      <br>- 📧 Email: <a href="mailto:jysa000@naver.com">jysa000@naver.com</a>  
+      <br>- 💻 GitHub: <a href="https://github.com/jysa000">GitHub 페이지</a>  
+      <br>- 🎮 Google Play: <a href="https://play.google.com/store/apps/dev?id=7689537255558713422&pli=1">Google Play 개발자 페이지</a>  
     </td>
   </tr>
 </table>
+
 
 
 ---
