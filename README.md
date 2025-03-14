@@ -1,3 +1,4 @@
+<!--
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gFPznrUY)
 # Welcome to GitHub
 
@@ -24,6 +25,7 @@
 
 
 ## 내용에 아래와 같은 내용들을 추가하세요.
+-->
 
 ### 1. 프로잭트 소개
 
@@ -33,11 +35,65 @@
 
 프로젝트 소개하는 영상을 추가하세요
 
-### 3. 팀 소개
+---
 
-팀을 소개하세요.
+### 🎮 팀원 소개
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+#### 🌟 임상학
+<div style="display: flex; align-items: center;">
+  <img src="./MDRes/LSH.png" alt="임상학" width="120" style="margin-right: 15px;">
+  <div>
+    <strong>학번</strong> : 20181251 <hr>
+    <strong>역할</strong> : 개발 <hr>
+    <strong>이력</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 유니티 및 자체 엔진 제작 경험<hr>
+    <strong>연락처</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:09lsh16@kookmin.ac.kr">09lsh16@kookmin.ac.kr</a>  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/Will-Big">[GitHub 페이지]</a>  
+  </div>
+</div>
+
+---
+
+#### 🎯 윤진호
+<div style="display: flex; align-items: center;">
+  <img src="./MDRes/YJH.png" alt="윤진호" width="120" style="margin-right: 15px;">
+  <div>
+    <strong>학번</strong> : 20222169 <hr>
+    <strong>역할</strong> : 기획 <hr>
+    <strong>이력</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2022 CES 2023 AVALVE  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2023 KBO ESG 아이디어 경진 프로젝트 - 장려상  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2023 - 2024 몬스터 에너지 행사 기획 및 협찬  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2024 - sekisui house 미래 사업 프로젝트  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 2024 - 2025 ASML KOREA<hr>
+    <strong>연락처</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a>  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/yjhplanner">[GitHub 페이지]</a>  
+  </div>
+</div>
+
+---
+
+#### 🕹️ 조영서
+<div style="display: flex; align-items: center;">
+  <img src="./MDRes/JYS.png" alt="조영서" width="120" style="margin-right: 15px;">
+  <div>
+    <strong>학번</strong> : 20191671 <hr>
+    <strong>역할</strong> : 개발 <hr>
+    <strong>이력</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- Google Play 출시작 : 운빨 대장장이, 우지끈 낚시꾼  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 대외 전시 출품 : BIC, G-STAR, 타이페이 게임쇼 (전시작 DENEV)  <hr>
+    <strong>연락처</strong>:  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 📧 Email: <a href="mailto:jysa000@naver.com"> jysa000@naver.com</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 💻 GitHub: <a href="https://github.com/jysa000">[GitHub 페이지]</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- 🎮 Google Play: <a href="https://play.google.com/store/apps/dev?id=7689537255558713422&pli=1">[Google Play 개발자 페이지]</a> 
+  </div>
+</div>
+
+---
+
+이 페이지는 졸업작품 개발에 참여하는 팀원들을 소개하는 페이지입니다. 🎮✨
 
 ### 4. 사용법
 
