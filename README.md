@@ -85,8 +85,8 @@
         </tr>
         <tr><td><strong>연락처</strong></td>
           <td>
-            📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a><br>
-            💻 GitHub: <a href="https://github.com/yjhplanner">GitHub 페이지</a>
+            📧 Email: <a href="mailto:bracio@naver.com">bracio@naver.com</a><br>
+            💻 GitHub: <a href="https://github.com/bruhcio">GitHub 페이지</a>
           </td>
         </tr>
       </table>
