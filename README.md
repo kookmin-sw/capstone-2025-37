@@ -27,34 +27,37 @@
 ## 내용에 아래와 같은 내용들을 추가하세요.
 -->
 
-### 1. 프로잭트 소개
+# 1. 프로잭트 소개
 
 프로젝트
 
-### 2. 소개 영상
+# 2. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
 
----
+<br>
+<br>
 
 # 🎮 팀원 소개
-
----
 
 ### 🌟 임상학
 <table style="border: none;">
   <tr>
-    <td width="150" style="padding: 5px;">
-      <img src="./MDRes/LSH.png" alt="임상학" width="150">
+    <td width="120" style="padding: 5px; border: none;">
+      <img src="./MDRes/LSH.png" alt="임상학" width="120">
     </td>
-    <td style="vertical-align: top; padding: 5px;">
-      <strong>학번</strong> : 20181251 <hr style="margin: 5px 0;">
-      <strong>역할</strong> : 개발 <hr style="margin: 5px 0;">
-      <strong>이력</strong>:  
-      <br>- 유니티 및 자체 엔진 제작 경험<hr style="margin: 5px 0;">
-      <strong>연락처</strong>:  
-      <br>- 📧 Email: <a href="mailto:09lsh16@kookmin.ac.kr">09lsh16@kookmin.ac.kr</a>  
-      <br>- 💻 GitHub: <a href="https://github.com/Will-Big">GitHub 페이지</a>  
+    <td style="vertical-align: top; padding: 5px; border: none;">
+      <table>
+        <tr><td><strong>학번</strong></td><td>20181251</td></tr>
+        <tr><td><strong>역할</strong></td><td>개발</td></tr>
+        <tr><td><strong>이력</strong></td><td>- 유니티 및 자체 엔진 제작 경험</td></tr>
+        <tr><td><strong>연락처</strong></td>
+          <td>
+            📧 Email: <a href="mailto:09lsh16@kookmin.ac.kr">09lsh16@kookmin.ac.kr</a><br>
+            💻 GitHub: <a href="https://github.com/Will-Big">GitHub 페이지</a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -64,21 +67,29 @@
 ### 🎯 윤진호
 <table style="border: none;">
   <tr>
-    <td width="150" style="padding: 5px;">
-      <img src="./MDRes/YJH.png" alt="윤진호" width="150">
+    <td width="120" style="padding: 5px; border: none;">
+      <img src="./MDRes/YJH.png" alt="윤진호" width="120">
     </td>
-    <td style="vertical-align: top; padding: 5px;">
-      <strong>학번</strong> : 20222169 <hr style="margin: 5px 0;">
-      <strong>역할</strong> : 기획 <hr style="margin: 5px 0;">
-      <strong>이력</strong>:  
-      <br>- 2022 CES 2023 AVALVE  
-      <br>- 2023 KBO ESG 아이디어 경진 프로젝트 - 장려상  
-      <br>- 2023 - 2024 몬스터 에너지 행사 기획 및 협찬  
-      <br>- 2024 - sekisui house 미래 사업 프로젝트  
-      <br>- 2024 - 2025 ASML KOREA<hr style="margin: 5px 0;">
-      <strong>연락처</strong>:  
-      <br>- 📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a>  
-      <br>- 💻 GitHub: <a href="https://github.com/yjhplanner">GitHub 페이지</a>  
+    <td style="vertical-align: top; padding: 5px; border: none;">
+      <table>
+        <tr><td><strong>학번</strong></td><td>20222169</td></tr>
+        <tr><td><strong>역할</strong></td><td>기획</td></tr>
+        <tr><td><strong>이력</strong></td>
+          <td>
+            - 2022 CES 2023 AVALVE<br>
+            - 2023 KBO ESG 아이디어 경진 프로젝트 - 장려상<br>
+            - 2023 - 2024 몬스터 에너지 행사 기획 및 협찬<br>
+            - 2024 - sekisui house 미래 사업 프로젝트<br>
+            - 2024 - 2025 ASML KOREA
+          </td>
+        </tr>
+        <tr><td><strong>연락처</strong></td>
+          <td>
+            📧 Email: <a href="mailto:yjh@example.com">yjh@example.com</a><br>
+            💻 GitHub: <a href="https://github.com/yjhplanner">GitHub 페이지</a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -88,22 +99,31 @@
 ### 🕹️ 조영서
 <table style="border: none;">
   <tr>
-    <td width="150" style="padding: 5px;">
-      <img src="./MDRes/JYS.png" alt="조영서" width="150">
+    <td width="120" style="padding: 5px; border: none;">
+      <img src="./MDRes/JYS.png" alt="조영서" width="120">
     </td>
-    <td style="vertical-align: top; padding: 5px;">
-      <strong>학번</strong> : 20191671 <hr style="margin: 5px 0;">
-      <strong>역할</strong> : 개발 <hr style="margin: 5px 0;">
-      <strong>이력</strong>:  
-      <br>- Google Play 출시작 : 운빨 대장장이, 우지끈 낚시꾼  
-      <br>- 대외 전시 출품 : BIC, G-STAR, 타이페이 게임쇼 (전시작 DENEV)  <hr style="margin: 5px 0;">
-      <strong>연락처</strong>:  
-      <br>- 📧 Email: <a href="mailto:jysa000@naver.com">jysa000@naver.com</a>  
-      <br>- 💻 GitHub: <a href="https://github.com/jysa000">GitHub 페이지</a>  
-      <br>- 🎮 Google Play: <a href="https://play.google.com/store/apps/dev?id=7689537255558713422&pli=1">Google Play 개발자 페이지</a>  
+    <td style="vertical-align: top; padding: 5px; border: none;">
+      <table>
+        <tr><td><strong>학번</strong></td><td>20191671</td></tr>
+        <tr><td><strong>역할</strong></td><td>개발</td></tr>
+        <tr><td><strong>이력</strong></td>
+          <td>
+            - Google Play 출시작 : 운빨 대장장이, 우지끈 낚시꾼<br>
+            - 대외 전시 출품 : BIC, G-STAR, 타이페이 게임쇼 (전시작 DENEV)
+          </td>
+        </tr>
+        <tr><td><strong>연락처</strong></td>
+          <td>
+            📧 Email: <a href="mailto:jysa000@naver.com">jysa000@naver.com</a><br>
+            💻 GitHub: <a href="https://github.com/jysa000">GitHub 페이지</a><br>
+            🎮 Google Play: <a href="https://play.google.com/store/apps/dev?id=7689537255558713422&pli=1">Google Play 개발자 페이지</a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
 
