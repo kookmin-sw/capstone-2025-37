@@ -1,0 +1,924 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110bbb5cdaed47cd93bf5614e969db3f, type: 3}
+  m_Name: CHEST - Weapon Rack
+  m_EditorClassIdentifier: 
+  playerLevel: 10
+  chestContents:
+  - {fileID: 11400000, guid: 54d909168a6dac24d87225655c54b303, type: 2}
+  - {fileID: 11400000, guid: 024d909ba7ece6c43b84b69bcb4ed4c0, type: 2}
+  - {fileID: 11400000, guid: 024d909ba7ece6c43b84b69bcb4ed4c0, type: 2}
+  chestLootTable:
+    pl_collection:
+    - m_PLID: bd6c69b8-36a4-48b4-891d-8b8af3fef1c2
+      m_ProbabilityItems:
+      - m_Value: {fileID: 11400000, guid: 0680c8ec10d22e6418ea463d0012a17f, type: 2}
+        m_BaseProbability: 0.59999996
+        m_Enabled: 1
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      - m_Value: {fileID: 11400000, guid: 98d19cca08ce1dd4b9ad8936bf34cda2, type: 2}
+        m_BaseProbability: 0.3
+        m_Enabled: 1
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      - m_Value: {fileID: 11400000, guid: 050ba593d651f1e4c99a8208f886b46c, type: 2}
+        m_BaseProbability: 0.1
+        m_Enabled: 1
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      m_PreventRepeat: 0
+      m_ShuffleIterations: 1
+      m_PickCountMin: 1
+      m_PickCountMax: 1
+      m_LinkPickCounts: 1
+      m_MaintainPickCountIfDisabled: 0
+      m_PickCountCurve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 1
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 1
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Seed: 2895049642
+      m_KeepSeed: 0
+      m_PickHistory:
+        m_History:
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245328005138347
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245327975759415
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245327587787093
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327582915051
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245327578097877
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245327572760156
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327567501953
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245327562078839
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327557728144
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327551026423
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327037461778
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327025381668
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326975807471
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326968565860
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245326953170952
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326949101743
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326942442944
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326934247389
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326872249475
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326523500395
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326500923263
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245326493380178
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326452905307
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326448448112
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326443715731
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326438325544
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326432642484
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326425942813
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326419296790
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326413866639
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326384042385
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326369664260
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245326361541597
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326345977817
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245326322934495
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324372974886
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324368912697
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324365163211
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324360887580
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324357150994
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324353072260
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324348858392
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245324344750293
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324339788560
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245324335674397
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324331535491
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324327130119
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324322043034
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324317745705
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324312901475
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324307794415
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324301228153
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245324294690569
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245324282759017
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324275045378
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245323867797519
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323863028059
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323856935396
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323850869760
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245323844757795
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323839653069
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245323833918393
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245323467272273
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323460564782
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323432550713
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323422748064
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245322769136330
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322767325009
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322765939325
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322762138151
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245322760492133
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245322758799375
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322756094749
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322754189312
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245322752267113
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245322749275014
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322746919242
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245322744289463
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322741244045
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245322737923078
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322733664097
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322729007432
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245322634235511
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245322627139647
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321953651751
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321950511991
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321947398149
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321943878943
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321940122613
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321936820948
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321933832990
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321930369465
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321926509297
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321923116954
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321919382576
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321915915407
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321912429141
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321908742462
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321903762532
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321899799796
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321895138438
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321891430280
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321887033099
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321874698111
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321869516272
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321863625156
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321857328114
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321844499173
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321840173543
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321835192972
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321830638232
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321806769489
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321790857195
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321786081248
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321780755169
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321768303124
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321764155007
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321759497132
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321754775121
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321751355148
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321747081928
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321742708027
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321738844413
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321729040576
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321722606269
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321481882112
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321476059585
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321471054692
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321463262024
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321458649960
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321454299941
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321449849908
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321444747012
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245321439560276
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321435543077
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321431420230
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321426842329
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321421314954
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321117035494
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321113016109
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321108975636
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245321101318394
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321016659899
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245321009331772
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320991036548
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320984702444
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320942538475
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320937927261
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245320932365651
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245320926701231
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320920188848
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245320914601079
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245320908522156
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245320902058462
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319751855061
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319742525544
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319727038894
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319715414671
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319706302402
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319540920860
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245319534532049
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319529496487
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319525364826
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319519629216
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319513870782
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319508403042
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319502709179
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319497218076
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319490992755
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245319468791366
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319463746196
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319457714888
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245319452148673
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319445893542
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245319434538787
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318647260092
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245318632007575
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318610325703
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318584166644
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318566435568
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245318560107539
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318552118353
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318525505553
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318519502607
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318510275649
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318501331897
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318481080821
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318475622064
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318470833472
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318466035475
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318460355965
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245318454049344
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318449650144
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318445062614
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318439980406
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318434583213
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318427539108
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318420894800
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318413019627
+        - m_Index: 2
+          m_Time:
+            Ticks: 638245318403818251
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318395362274
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318388191178
+        - m_Index: 1
+          m_Time:
+            Ticks: 638245318374789623
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318368670681
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245318341545874
+        m_Capacity: 1000
+      m_LastPickCount: 1
+      m_SelectionMethodID: LSMRegular
+    - m_PLID: a7dde55a-00ce-4779-92e8-64d6d412bf36
+      m_ProbabilityItems:
+      - m_Value: {fileID: 11400000, guid: 363dd7ff2f7991f429fef5d5ae53089b, type: 2}
+        m_BaseProbability: 1
+        m_Enabled: 1
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      m_PreventRepeat: 0
+      m_ShuffleIterations: 1
+      m_PickCountMin: 1
+      m_PickCountMax: 3
+      m_LinkPickCounts: 0
+      m_MaintainPickCountIfDisabled: 0
+      m_PickCountCurve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 2.7709708
+          outSlope: 2.7709708
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0.041666687
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Seed: 136363398
+      m_KeepSeed: 0
+      m_PickHistory:
+        m_History:
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245328005138347
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245328005138347
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327975759415
+        m_Capacity: 1000
+      m_LastPickCount: 2
+      m_SelectionMethodID: LSMRegular
+    - m_PLID: b367202f-b6b5-4395-ac40-1b71e8d70b98
+      m_ProbabilityItems:
+      - m_Value: {fileID: 11400000, guid: cafb7e07346e5db4ca46040f3b4d33dd, type: 2}
+        m_BaseProbability: 0.65
+        m_Enabled: 1
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      - m_Value: {fileID: 0}
+        m_BaseProbability: 0.35000002
+        m_Enabled: 0
+        m_Locked: 0
+        m_InfluenceSpread: {x: 0, y: 1}
+        m_InfluenceProvider: {fileID: 0}
+      m_PreventRepeat: 0
+      m_ShuffleIterations: 1
+      m_PickCountMin: 1
+      m_PickCountMax: 1
+      m_LinkPickCounts: 1
+      m_MaintainPickCountIfDisabled: 0
+      m_PickCountCurve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 1
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 1
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Seed: 144845665
+      m_KeepSeed: 0
+      m_PickHistory:
+        m_History:
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327587787093
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327582915051
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327572760156
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327551026423
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327037461778
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245327025381668
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326975807471
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326968565860
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326953170952
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326942442944
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326523500395
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326493380178
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326432642484
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326425942813
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326413866639
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326384042385
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326361541597
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326345977817
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245326322934495
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324372974886
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324368912697
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324365163211
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324357150994
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324348858392
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324344750293
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324339788560
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324335674397
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324327130119
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324322043034
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324307794415
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245324294690569
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323867797519
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323863028059
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323856935396
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323850869760
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323844757795
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323839653069
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323833918393
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323467272273
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323460564782
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323432550713
+        - m_Index: 0
+          m_Time:
+            Ticks: 638245323422748064
+        m_Capacity: 1000
+      m_LastPickCount: 0
+      m_SelectionMethodID: LSMRegular

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe81cfb69857432c82c1fd71e26ea841, type: 3}
+  m_Name: Dice Roller
+  m_EditorClassIdentifier: 
+  diceToRoll:
+  - {fileID: 11400000, guid: c6d1f17a385d5ed43a537332ded9000f, type: 2}
+  - {fileID: 11400000, guid: c6d1f17a385d5ed43a537332ded9000f, type: 2}
+  - {fileID: 11400000, guid: 21eba0b6fdaf9de448c69445504d3d73, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  - {fileID: 11400000, guid: fe628d22771a9494c95c48d5ffc1341b, type: 2}
+  m_RollResults:
+  - dieName: 1D6
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 01000000
+  - dieName: 1D6
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 01000000
+  - dieName: 2D4
+    pickCountMin: 2
+    pickCountMax: 2
+    rolls: 0100000003000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 04000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 02000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 08000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 0a000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 0a000000
+  - dieName: 1D10 Biased
+    pickCountMin: 1
+    pickCountMax: 1
+    rolls: 08000000

@@ -1,0 +1,15 @@
+{
+  "name": "com.starphaselab.core",
+  "version": "0.1.1",
+  "displayName": "Starphase Core",
+  "description": "Common utilities used by RNGNeeds.",
+  "unity": "2020.2",
+  "documentationUrl": "https://docs.rngneeds.com/user-guide/introduction",
+  "changelogUrl": "https://docs.rngneeds.com/documentation/change-log",
+  "licensesUrl": "https://unity.com/legal/as-terms",
+  "author": {
+    "name": "Starphase Lab",
+    "email": "lab@starphase.sk",
+    "url": "https://www.starphase.sk"
+  }
+}

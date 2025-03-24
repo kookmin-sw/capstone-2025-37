@@ -1,0 +1,842 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5021281233722156003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7855039328603822256}
+  - component: {fileID: 8273622266605645087}
+  m_Layer: 0
+  m_Name: Point Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7855039328603822256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5021281233722156003}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.69, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5123961176066368865}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!108 &8273622266605645087
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5021281233722156003}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 2
+  m_Shape: 0
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 0.384
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!1001 &3146348863648340191
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3741340165064990559, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_Name
+      value: Chancelor
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013596747616770757, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d5c2908742a5284e968c90545430d95, type: 2}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PLID
+      value: cd30fa53-af0d-4ce2-b190-56fe3c899116
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_Seed
+      value: 2598106665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PLID
+      value: bb174084-c34f-4f7c-a646-a71ed4eb8a32
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_Seed
+      value: 2063864032
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PLID
+      value: 80b9154a-52de-41f3-941c-384559decf86
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_LastPickCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickCountMax
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickCountMin
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_LastPickCount
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PreventRepeat
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_LastPickCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_MaintainPickCountIfDisabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_MaintainPickCountIfDisabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[0].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 19d720d3554884f4d8e8d6dd32d38891, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[1].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: da6a1f1839e86d946adad2132db2a759, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[2].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: a23f04043106c0c4c8281e749d18d0d1, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[3].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: de7cc7b097ae15748a5a179931531c48, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[4].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 8819d9f4b78014a4ba71262299b07821, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[5].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 75b2d2fec3502f04eb26a271d2c1d3c9, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[6].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 5232f44e328e6de40b8d0418174798c2, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[7].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 3684f8271addd664ab410f98d887f4fe, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[8].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: d53fd81b9f4c5844c9738a3ec7b29405, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[9].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 2406234cd61f88143b5003c810742596, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[0].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[10].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: caaf604d71d9ac34286b2d102694e1de, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[11].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: cf3fe9230bc012445b58bed7c94a1990, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[12].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: f0575f459de4f53418c0ce4133b994e0, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[1].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[2].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[3].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[4].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[5].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[7].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[0].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[1].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[2].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[3].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[4].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[5].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[6].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[7].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[8].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[9].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[0].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 0a4bdeed9eab2314ebe8829a14456505, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[1].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 99fbb0260ac93ed44addcd951c5e0a68, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[2].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 13683682ab2d4f2419ddce936a5aebe1, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[3].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 9b862712af946e24ca1d7bc92fa578df, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[4].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 4f26040335e9af1498abe421bd895d7c, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[5].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: a0021b3f1e56ccb43877cbab04c4d41f, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[6].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 117ff868725086741a53a0b2ab09a703, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[10].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[11].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[12].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[2].m_Locked
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[0].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[1].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[2].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[3].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[4].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[5].m_Value
+      value: 
+      objectReference: {fileID: 8300000, guid: 068511f8898a73c4e8906414cf18266d, type: 3}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[0].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[1].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[2].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[3].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[4].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[5].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[6].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[0].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[1].m_Index
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[2].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[3].m_Index
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[4].m_Index
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[5].m_Index
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[6].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[7].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[8].m_Index
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[9].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[0].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[1].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[2].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[3].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[4].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[5].m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[10].m_Index
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[1].m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[2].m_Index
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[3].m_Index
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[0].m_Index
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[1].m_Index
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[3].m_Index
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[0].m_Time.Ticks
+      value: 638246709267834577
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[1].m_Time.Ticks
+      value: 638246709255759815
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[2].m_Time.Ticks
+      value: 638246709158782993
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[3].m_Time.Ticks
+      value: 638246709139291946
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[4].m_Time.Ticks
+      value: 638246709107927400
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[5].m_Time.Ticks
+      value: 638246709064734340
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[6].m_Time.Ticks
+      value: 638246709029471159
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[7].m_Time.Ticks
+      value: 638246709012086580
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[8].m_Time.Ticks
+      value: 638246708959374511
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[9].m_Time.Ticks
+      value: 638246708943319458
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[0].m_BaseProbability
+      value: 0.019999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[1].m_BaseProbability
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[2].m_BaseProbability
+      value: 0.05000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[3].m_BaseProbability
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[4].m_BaseProbability
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[5].m_BaseProbability
+      value: 0.07999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[6].m_BaseProbability
+      value: 0.1611963
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[7].m_BaseProbability
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[8].m_BaseProbability
+      value: 0.058098614
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[9].m_BaseProbability
+      value: 0.1369017
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_PickHistory.m_History.Array.data[10].m_Time.Ticks
+      value: 638246708918412128
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[10].m_BaseProbability
+      value: 0.1369017
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[11].m_BaseProbability
+      value: 0.13690172
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[12].m_BaseProbability
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[0].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[1].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[2].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[3].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[4].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[5].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[6].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[7].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[8].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[9].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[0].m_Time.Ticks
+      value: 638246709323564654
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[1].m_Time.Ticks
+      value: 638246709304185736
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[2].m_Time.Ticks
+      value: 638246709289554260
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_PickHistory.m_History.Array.data[3].m_Time.Ticks
+      value: 638246708902273316
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[0].m_BaseProbability
+      value: 0.11111112
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[1].m_BaseProbability
+      value: 0.22222224
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[2].m_BaseProbability
+      value: 0.11111112
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[3].m_BaseProbability
+      value: 0.22222224
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[4].m_BaseProbability
+      value: 0.16666667
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[5].m_BaseProbability
+      value: 0.16666669
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[6].m_BaseProbability
+      value: 0.10812998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[10].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[11].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: moveResponses.m_ProbabilityItems.Array.data[12].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[0].m_Time.Ticks
+      value: 638246709235359509
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[1].m_Time.Ticks
+      value: 638246709208487779
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[2].m_Time.Ticks
+      value: 638246709180032847
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_PickHistory.m_History.Array.data[3].m_Time.Ticks
+      value: 638246708992006636
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[0].m_BaseProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[1].m_BaseProbability
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[2].m_BaseProbability
+      value: 0.3333333
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[3].m_BaseProbability
+      value: 0.28125
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[4].m_BaseProbability
+      value: 0.2195122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[5].m_BaseProbability
+      value: 0.17999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[0].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[1].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[2].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[3].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[4].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[5].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: selectResponses.m_ProbabilityItems.Array.data[6].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[0].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[1].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[2].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[3].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[4].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723419716804895230, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: interactResponses.m_ProbabilityItems.Array.data[5].m_InfluenceSpread.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6317864481951092360, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: unitName
+      value: Chancelor, the Unlucky
+      objectReference: {fileID: 0}
+    - target: {fileID: 6317864481951092360, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: unitType
+      value: Wizard by chance
+      objectReference: {fileID: 0}
+    - target: {fileID: 6317864481951092360, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: unitPortrait
+      value: 
+      objectReference: {fileID: 21300000, guid: c7d2d156a15cf164e814c995e1ffb4d6, type: 3}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+--- !u!4 &5123961176066368865 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7832292008963259838, guid: c51538e3ffc22724e88b24078c517f83, type: 3}
+  m_PrefabInstance: {fileID: 3146348863648340191}
+  m_PrefabAsset: {fileID: 0}

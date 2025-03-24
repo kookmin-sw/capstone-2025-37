@@ -1,0 +1,24 @@
+{
+    "name": "ACTk.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.audio",
+            "expression": "",
+            "define": "UNITY_AUDIO_MODULE"
+        },
+        {
+            "name": "com.unity.nuget.newtonsoft-json",
+            "expression": "2.0.0",
+            "define": "ACTK_NEWTONSOFT_JSON"
+        }
+    ],
+    "noEngineReferences": false
+}

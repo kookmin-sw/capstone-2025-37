@@ -1,0 +1,20 @@
+{
+    "name": "RNGNeeds.Editor",
+    "rootNamespace": "RNGNeeds.Editor",
+    "references": [
+        "GUID:8a4d01721a5bacb4ebf0bd961ff42329",
+        "GUID:40f239c671ddedb49934c111222f1158",
+        "GUID:2fc7fc0442a9f41409f68d2e5feed5f0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
