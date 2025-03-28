@@ -1,0 +1,19 @@
+{
+    "name": "RNGNeeds.Samples",
+    "rootNamespace": "RNGNeeds.Samples",
+    "references": [
+        "GUID:8a4d01721a5bacb4ebf0bd961ff42329",
+        "GUID:2fc7fc0442a9f41409f68d2e5feed5f0",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:40f239c671ddedb49934c111222f1158"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

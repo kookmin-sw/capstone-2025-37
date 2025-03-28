@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72137ac9935d4469ac9ea834927b9aa2, type: 3}
+  m_Name: D6 Face Data
+  m_EditorClassIdentifier: 
+  faceDirections:
+  - face: 1
+    direction: {x: 0, y: -1, z: 0}
+  - face: 2
+    direction: {x: 1, y: 0, z: 0}
+  - face: 3
+    direction: {x: 0, y: 0, z: -1}
+  - face: 4
+    direction: {x: 0, y: 0, z: 1}
+  - face: 5
+    direction: {x: -1, y: 0, z: 0}
+  - face: 6
+    direction: {x: 0, y: 1, z: 0}
+  rotationMap:
+  - topFace: 1
+    desiredFace: 1
+    rotation: {x: 0, y: 0, z: 0}
+  - topFace: 1
+    desiredFace: 2
+    rotation: {x: -0, y: 0, z: 270}
+  - topFace: 1
+    desiredFace: 3
+    rotation: {x: 270, y: 0, z: 0}
+  - topFace: 1
+    desiredFace: 4
+    rotation: {x: 90, y: 0, z: 0}
+  - topFace: 1
+    desiredFace: 5
+    rotation: {x: -0, y: 0, z: 90}
+  - topFace: 1
+    desiredFace: 6
+    rotation: {x: 0, y: 0, z: 180}
+  - topFace: 2
+    desiredFace: 1
+    rotation: {x: 0, y: 0, z: 90}
+  - topFace: 2
+    desiredFace: 2
+    rotation: {x: -0, y: 0, z: 0}
+  - topFace: 2
+    desiredFace: 3
+    rotation: {x: 0, y: 270, z: 0}
+  - topFace: 2
+    desiredFace: 4
+    rotation: {x: 0, y: 90, z: 0}
+  - topFace: 2
+    desiredFace: 5
+    rotation: {x: -0, y: 0, z: 180}
+  - topFace: 2
+    desiredFace: 6
+    rotation: {x: -0, y: 0, z: 270}
+  - topFace: 3
+    desiredFace: 1
+    rotation: {x: 90, y: 0, z: 0}
+  - topFace: 3
+    desiredFace: 2
+    rotation: {x: 0, y: 90, z: 0}
+  - topFace: 3
+    desiredFace: 3
+    rotation: {x: -0, y: 0, z: 0}
+  - topFace: 3
+    desiredFace: 4
+    rotation: {x: -0.000005008956, y: 180, z: 180}
+  - topFace: 3
+    desiredFace: 5
+    rotation: {x: 0, y: 270, z: 0}
+  - topFace: 3
+    desiredFace: 6
+    rotation: {x: 270, y: 0, z: 0}
+  - topFace: 4
+    desiredFace: 1
+    rotation: {x: 270, y: 0, z: 0}
+  - topFace: 4
+    desiredFace: 2
+    rotation: {x: 0, y: 270, z: 0}
+  - topFace: 4
+    desiredFace: 3
+    rotation: {x: -0.000005008956, y: 180, z: 180}
+  - topFace: 4
+    desiredFace: 4
+    rotation: {x: -0, y: 0, z: 0}
+  - topFace: 4
+    desiredFace: 5
+    rotation: {x: -0, y: 90, z: 0}
+  - topFace: 4
+    desiredFace: 6
+    rotation: {x: 90, y: 0, z: 0}
+  - topFace: 5
+    desiredFace: 1
+    rotation: {x: -0, y: 0, z: 270}
+  - topFace: 5
+    desiredFace: 2
+    rotation: {x: 0, y: 0, z: 180}
+  - topFace: 5
+    desiredFace: 3
+    rotation: {x: -0, y: 90, z: 0}
+  - topFace: 5
+    desiredFace: 4
+    rotation: {x: 0, y: 270, z: 0}
+  - topFace: 5
+    desiredFace: 5
+    rotation: {x: -0, y: 0, z: 0}
+  - topFace: 5
+    desiredFace: 6
+    rotation: {x: -0, y: 0, z: 90}
+  - topFace: 6
+    desiredFace: 1
+    rotation: {x: -0, y: 0, z: 180}
+  - topFace: 6
+    desiredFace: 2
+    rotation: {x: 0, y: 0, z: 90}
+  - topFace: 6
+    desiredFace: 3
+    rotation: {x: 90, y: 0, z: 0}
+  - topFace: 6
+    desiredFace: 4
+    rotation: {x: 270, y: 0, z: 0}
+  - topFace: 6
+    desiredFace: 5
+    rotation: {x: 0, y: 0, z: 270}
+  - topFace: 6
+    desiredFace: 6
+    rotation: {x: -0, y: 0, z: 0}
