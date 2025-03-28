@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a83e9363a7d40009f6e212e2867d474, type: 3}
+  m_Name: Health Potion
+  m_EditorClassIdentifier: 
+  title: Health Potion
+  rarity: {fileID: 11400000, guid: 437170661737ed54cb5278050a9d31b9, type: 2}
+  playerStat: 0
+  baseAmount: 30
+  levelMultiplier: 15
+  amount: 0
+  potionColor: {r: 1, g: 0.37169808, b: 0.54218537, a: 1}

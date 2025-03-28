@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf59ea9b0b341cba000f47435584687, type: 3}
+  m_Name: All Epic Items
+  m_EditorClassIdentifier: 
+  rarity: {fileID: 11400000, guid: af2a5dda9c698ca4abd61deb67df3312, type: 2}
+  items:
+    m_PLID: fc22b697-2eea-40a1-8687-a42437e03242
+    m_ProbabilityItems:
+    - m_Value: {fileID: 11400000, guid: e616dfc143377b64e99a794953fcd230, type: 2}
+      m_BaseProbability: 0.07692308
+      m_Enabled: 0
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 1c2ff8eec052a014fb9f5a2fc02901ea, type: 2}
+      m_BaseProbability: 0.07692308
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: fecdda072acec144cb0f371b890f3cba, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: a48c1f9ac80dfa244b612325fb336ecd, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: f9dec5394e0832942ab63bc857082505, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 89ddc7cf3071af14699e658765be1309, type: 2}
+      m_BaseProbability: 0.07692308
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 3a3aaf2bcb68f284dbdd7c8b7d4a2ffb, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 71aa583153f15714c8cde4daea8e9cfb, type: 2}
+      m_BaseProbability: 0.07692308
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: dbfd568a05eb08b498ce456c4c4dea63, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 498b05f8a7f0f1345956e1d1c3511260, type: 2}
+      m_BaseProbability: 0.07692308
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 6cc2b8ce47c8170439162e00d3affff6, type: 2}
+      m_BaseProbability: 0.07692309
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: ac2de0481a2e18944ac390d1811c7362, type: 2}
+      m_BaseProbability: 0.076923065
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 5f49ec9221b1d544c9bb52dc948629e4, type: 2}
+      m_BaseProbability: 0.076923065
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    m_PreventRepeat: 2
+    m_ShuffleIterations: 1
+    m_PickCountMin: 1
+    m_PickCountMax: 1
+    m_LinkPickCounts: 1
+    m_MaintainPickCountIfDisabled: 0
+    m_PickCountCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Seed: 2931975490
+    m_KeepSeed: 0
+    m_PickHistory:
+      m_History:
+      - m_Index: 8
+        m_Time:
+          Ticks: 638250501221315770
+      - m_Index: 7
+        m_Time:
+          Ticks: 638250501214237960
+      - m_Index: 2
+        m_Time:
+          Ticks: 638250501214237960
+      - m_Index: 7
+        m_Time:
+          Ticks: 638250501201115478
+      - m_Index: 0
+        m_Time:
+          Ticks: 638250501145195911
+      m_Capacity: 1000
+    m_LastPickCount: 1
+    m_SelectionMethodID: LSMRegular

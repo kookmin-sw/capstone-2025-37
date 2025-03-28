@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f8466a3b504a94b6cb7e1d3c215fac, type: 3}
+  m_Name: Starter Deck backup
+  m_EditorClassIdentifier: 
+  cardRarities:
+    m_PLID: a439d58a-bbc0-4c59-8684-8e5f230664eb
+    m_ProbabilityItems:
+    - m_Value: {fileID: 11400000, guid: 40b7f0357e0f22e40a2fed08e9320f39, type: 2}
+      m_BaseProbability: 0.46999997
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 81acef78a41c1014bbaf9fdd4a8f8afe, type: 2}
+      m_BaseProbability: 0.25
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 92606412eb3b00c409ee61a609103499, type: 2}
+      m_BaseProbability: 0.14999999
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 78454ab5b15d40949b1f11444c85157c, type: 2}
+      m_BaseProbability: 0.13000001
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    m_PreventRepeat: 0
+    m_ShuffleIterations: 1
+    m_PickCountMin: 1
+    m_PickCountMax: 1
+    m_LinkPickCounts: 1
+    m_MaintainPickCountIfDisabled: 0
+    m_PickCountCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Seed: 0
+    m_KeepSeed: 0
+    m_PickHistory:
+      m_History: []
+      m_Capacity: 1000
+    m_LastPickCount: 0
+    m_SelectionMethodID: LSMRegular
+  cards:
+    m_PLID: 5dce273e-0e62-4dea-b7f3-9f49d9c7c9ea
+    m_ProbabilityItems:
+    - m_Value: {fileID: 11400000, guid: d238ac336689eac419debf007b04c73d, type: 2}
+      m_BaseProbability: 0.26725787
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 2f552886331abbc41b3a9a9c9179ed75, type: 2}
+      m_BaseProbability: 0.26868892
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 4cb7411f035bde74bb90f55218efb0ad, type: 2}
+      m_BaseProbability: 0.14562126
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 20f220d1a6b0b7d4eb115f886c2386d9, type: 2}
+      m_BaseProbability: 0.19713797
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    - m_Value: {fileID: 11400000, guid: 62f681270e8c1f549a0fe9e54e6cea9d, type: 2}
+      m_BaseProbability: 0.12129394
+      m_Enabled: 1
+      m_Locked: 0
+      m_InfluenceSpread: {x: 0, y: 1}
+      m_InfluenceProvider: {fileID: 0}
+    m_PreventRepeat: 0
+    m_ShuffleIterations: 1
+    m_PickCountMin: 1
+    m_PickCountMax: 1
+    m_LinkPickCounts: 1
+    m_MaintainPickCountIfDisabled: 0
+    m_PickCountCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Seed: 0
+    m_KeepSeed: 0
+    m_PickHistory:
+      m_History: []
+      m_Capacity: 1000
+    m_LastPickCount: 0
+    m_SelectionMethodID: LSMRegular
