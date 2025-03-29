@@ -16,17 +16,831 @@ MonoBehaviour:
     UserAgreesToHaveItOnTheScene: 0
     UserAgreesToHaveItInsideThePluginsFolder: 0
     GoogleLiveSyncIsUptoDate: 1
-    mTerms: []
+    mTerms:
+    - Term: Test
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD14C\uC2A4\uD2B8"
+      - test
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC15\uC758 \uC911\uC5D0 \uC790\uC720\uB86D\uAC8C \uD654\uC7A5\uC2E4\uC5D0
+        \uAC00\uB3C4 \uAD1C\uCC2E\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD9C\uC11D\uB9CC \uD55C \uD6C4 \uAC15\uC758\uB97C \uB4E3\uC9C0 \uC54A\uB294
+        \uD589\uC704\uB97C \uCD9C\uD280\uB77C\uACE0 \uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBD80\uB4DD\uC774\uD55C \uC0AC\uC720\uB85C \uC778\uD574 \uCD9C\uC11D\uC744
+        \uD558\uC9C0 \uBABB\uD558\uB294 \uACBD\uC6B0 \uCD9C\uC11D\uC778\uC815\uC2E0\uCCAD\uC11C,
+        \uC99D\uBE59\uC11C\uB958\uB97C \uC81C\uCD9C\uD558\uC5EC \uB2F4\uB2F9\uAD50\uC218
+        \uBC0F \uD559\uBD80\uC7A5\uC758 \uD5C8\uAC00\uB97C \uBC1B\uC740 \uD6C4 \uBAA8\uB4E0
+        \uD559\uC0DD\uB4E4 \uC55E\uC5D0\uC11C \uB3C4\uAC8C\uC790\uB97C \uD574\uC57C\uD55C\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC911\uAC04\uACE0\uC0AC \uC774\uD6C4\uC5D0 \uAC15\uC758\uD3C9\uAC00\uB97C
+        \uC9C4\uD589\uD558\uC9C0 \uC54A\uC544\uB3C4 \uC911\uAC04\uACE0\uC0AC \uC131\uC801\uC744
+        \uD655\uC778 \uD560 \uC218 \uC788\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uAD50 \uB4B7\uC0B0\uC5D0\uC11C \uC774\uB530\uAE08\uC529 \uBA67\uB3FC\uC9C0\uAC00
+        \uB0B4\uB824\uC624\uB294 \uACBD\uC6B0\uAC00 \uC788\uC73C\uBBC0\uB85C \uC8FC\uC758\uD574\uC57C\uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD761\uC5F0\uAE08\uC9C0 \uD3EC\uC2A4\uD130\uAC00 \uC5EC\uAE30\uC800\uAE30
+        \uBD99\uC5B4\uC788\uB294 \uACBD\uC6B0 \uD574\uB2F9 \uAD6C\uC5ED\uC740 \uAF64
+        \uC624\uB79C\uAE30\uAC04 \uBE44\uACF5\uC2DD\uC801\uC778 \uD761\uC5F0\uAD6C\uC5ED\uC73C\uB85C
+        \uC774\uC6A9\uB418\uC5C8\uC74C\uC744 \uC758\uBBF8\uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCEA0\uD37C\uC2A4\uB0B4\uC5D0\uB294 \uC0E4\uC6CC\uC2E4\uACFC \uCCB4\uB825\uB2E8\uB828\uC2E4
+        \uADF8 \uC678 \uD559\uC0DD \uBCF5\uC9C0\uB97C \uC704\uD55C \uC2DC\uC124\uB4E4\uC774
+        \uAD6C\uBE44\uB418\uC5B4 \uC788\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uC2DD\uC774 \uB9DB\uC774 \uC5C6\uB294 \uACBD\uC6B0\uC5D0\uB3C4 \uD559\uC2DD\uC744
+        \uBA39\uC5B4\uC57C\uB9CC \uD55C\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD3C9\uBC94\uD574 \uBCF4\uC774\uB294 \uB3D9\uC544\uB9AC\uBC29\uC758 \uD2B9\uC815
+        \uBCBD\uBA74\uC744 \uC5F4\uC5B4\uBCF4\uBA74 \uBE44\uBC00\uC9D1\uD68C\uB97C
+        \uC704\uD55C \uC7A5\uC18C\uAC00 \uC788\uB2E4\uB294 \uC18C\uBB38\uC740 \uAC70\uC9D3\uC774\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC774\uB530\uAE08\uC529 \uB3D9\uC544\uB9AC \uC120\uD6C4\uBC30\uB85C\uBD80\uD130
+        \uB4E4\uC744 \uC218 \uC788\uB294 \uB9E4\uC6B0 \uC790\uADF9\uC801\uC778, \uAC70\uC9D3\uB9D0
+        \uAC19\uC740 \uC18C\uBB38\uB4E4\uC740 \uAC00\uB054 \uC9C4\uC2E4\uC77C \uD655\uB960\uC774
+        \uC788\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB300\uD559\uAD50 \uB0B4\uC5D0\uB294 20\uB144 \uB118\uAC8C \uD559\uAD50\uB97C
+        \uB2E4\uB2C8\uACE0 \uC788\uB294 \uC0AC\uB78C\uB4E4\uC774 \uC788\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC871\uBCF4\uB780 \uD2B9\uC815 \uAC15\uC758\uC758 \uC9C0\uB09C \uD559\uAE30
+        \uAE30\uCD9C\uBB38\uC81C\uB97C \uC77C\uCEEB\uB294 \uB9D0\uC774\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uAD50 \uADFC\uCC98 \uC9D1\uACFC \uBC29\uC740 \uD488\uC9C8\uC5D0 \uBE44\uD574
+        \uC6D4\uC138\uAC00 \uB0AE\uC740 \uD3B8\uC774\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB300\uD559\uAD50 \uC774\uB984\uC774 \uBD99\uC5B4\uC788\uB294 \uC9C0\uD558\uCCA0\uC5ED\uC740
+        \uB300\uBD80\uBD84 \uD574\uB2F9 \uB300\uD559\uAD50\uB85C\uBD80\uD130 \uAC70\uB9AC\uAC00
+        \uAF64 \uB5A8\uC5B4\uC838 \uC788\uB294 \uD3B8\uC774\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD50\uC9C1\uC6D0 \uC2DD\uB2F9\uC740 \uAD50\uC9C1\uC6D0\uB9CC \uC774\uC6A9\uAC00\uB2A5\uD558\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uAD50 \uADFC\uCC98 \uC8FC\uCC28\uBE44\uB294 \uBE44\uC2FC \uD3B8\uC774\uBBC0\uB85C
+        \uAD50\uB0B4 \uC8FC\uCC28\uAD8C\uC744 \uC801\uADF9 \uC774\uC6A9\uD558\uC5EC\uC57C
+        \uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.16
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB4F1\uB85D\uAE08\uC744 \uC790\uBE44\uB85C \uB0A9\uBD80 \uD55C \uC0C1\uD0DC\uC5D0\uC11C
+        \uD55C\uAD6D\uC7A5\uD559\uC7AC\uB2E8\uC758 2\uCC28 \uD559\uC790\uAE08 \uB300\uCD9C\uB85C
+        \uCC98\uB9AC\uD558\uB824\uACE0 \uD55C\uB2E4\uBA74 \uD559\uAD50\uCE21\uC5D0
+        \uBB38\uC758\uD558\uC5EC \uD2B9\uBCC4\uB4F1\uB85D \uAD00\uB828 \uBB38\uC11C\uB97C
+        \uC791\uC131\uD55C \uD6C4 \uC2B9\uC778\uC744 \uBC1B\uC544\uC57C\uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.17
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC220\uC790\uB9AC\uC5D0\uC11C\uB294 \uBB34\uC870\uAC74 \uD544\uB984\uC774
+        \uB04A\uAE38 \uB54C\uAE4C\uC9C0 \uB9C8\uC154\uC57C\uD55C\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.18
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCDE8\uD588\uB2E4\uB97C \uD310\uB2E8\uD558\uB294 \uC2DC\uC810\uC740 \uCDE8\uAE30\uAC00
+        \uC62C\uB77C\uC624\uAE30 \uC2DC\uC791\uD560 \uB54C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.19
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC220\uC744 \uB9CE\uC774 \uB9C8\uC2DC\uACE0\uB3C4 \uC815\uC2E0\uC904\uC744
+        \uBD99\uC7A1\uAE30 \uC704\uD574\uC11C\uB294 \uBB3C\uC744 \uB9E4\uC6B0 \uB9CE\uC774
+        \uB9C8\uC154\uC57C\uD55C\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.20
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB300\uD559 \uCE5C\uAD6C\uB4E4\uC740 \uD3C9\uC0DD \uBCFC \uCE5C\uAD6C\uB4E4\uC774\uBBC0\uB85C
+        \uBAA8\uB4E0 \uBE44\uBC00\uC744 \uC18D \uD3B8\uD788 \uD138\uC5B4\uB193\uC544\uB3C4
+        \uAD1C\uCC2E\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.21
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC220\uC790\uB9AC, \uD761\uC5F0\uC7A5\uC5D0\uC11C \uB204\uAD70\uAC00\uB97C
+        \uB4B7\uB2F4\uAE4C\uB294 \uACBD\uC6B0 \uC801\uADF9\uC801\uC73C\uB85C \uD5D8\uB2F4\uD574\uC11C
+        \uBB34\uB9AC\uC758 \uAE30\uBD84\uC744 \uB9DE\uCDB0\uC918\uC57C\uD55C\uB2E4"
+      - X
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.OX.22
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB204\uAD70\uAC00\uC758 \uAE30\uC5B5\uC5D0 \uB0A8\uB294 \uAC83\uC774 \uC5B8\uC81C\uB098
+        \uC88B\uC740 \uAC83\uC740 \uC544\uB2C8\uB2E4"
+      - O
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB300\uD559\uC0DD\uB4E4\uC758 \uC2DC\uAC04\uD45C \uAD00\uB9AC, \uAC15\uC758
+        \uD3C9\uAC00, \uAC8C\uC2DC\uD310 \uB4F1 \uAE30\uD0C0 \uC815\uBCF4\uB4E4\uC744
+        \uBCFC \uC218 \uC788\uB294 \uCEE4\uBBA4\uB2C8\uD2F0\uB97C \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.0.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC1C\uB85C\uB780\uD2B8"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.0.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB9AC\uADF8\uC624\uBE0C\uB808\uC804\uB4DC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.0.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5D0\uBE0C\uB9AC\uD0C0\uC784"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.0.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBA54\uC774\uD50C\uC2A4\uD1A0\uB9AC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCC45\uACFC \uAC15\uC758\uC790\uB8CC\uB97C \uC790\uC720\uB86D\uAC8C \uBCF4\uBA74\uC11C
+        \uC2DC\uD5D8 \uBB38\uC81C\uB97C \uD480 \uC218 \uC788\uB294 \uC2DC\uC2A4\uD15C\uC744
+        \uBB34\uC5C7\uC774\uB77C\uACE0 \uD558\uB294\uAC00?"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.1.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC624\uD508\uBD81"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.1.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD504\uB9AC\uBD81"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.1.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC790\uC720 \uC2DC\uD5D8"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.1.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCEE8\uB2DD \uC2DC\uD5D8"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC9A\uAF43\uC774 \uD53C\uB294 \uC2DC\uC810\uC744 \uC633\uAC8C \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.2.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\uD559\uAE30 \uC911\uAC04\uACE0\uC0AC \uAE30\uAC04"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.2.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\uD559\uAE30 \uAE30\uB9D0\uACE0\uC0AC \uAE30\uAC04"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.2.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "2\uD559\uAE30 \uC911\uAC04\uACE0\uC0AC \uAE30\uAC04"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.2.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "2\uD559\uAE30 \uAE30\uB9D0\uACE0\uC0AC \uAE30\uAC04"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD9C\uACB0\uC5D0 \uC758\uD55C F \uC870\uAC74\uC73C\uB85C \uC633\uC740
+        \uAC83\uC744 \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.3.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC 2\uD68C \uAC15\uC758 \uAE30\uC900 6\uD68C \uACB0\uC11D"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.3.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC 2\uD68C \uC218\uC5C5 \uAE30\uC900 7\uD68C \uACB0\uC11D"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.3.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC 1\uD68C \uC218\uC5C5 \uAE30\uC900 3\uD68C \uACB0\uC11D"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.3.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC 1\uD68C \uC218\uC5C5 \uAE30\uC900 4\uD68C \uACB0\uC11D"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB4F1\uAD50 \uC804 \uD655\uC778\uD560 \uD544\uC694\uAC00 \uC5C6\uB294 \uD56D\uBAA9\uC744
+        \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.4.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uAC04\uD45C"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.4.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC77C\uAE30\uC608\uBCF4"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.4.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC00\uC815\uD1B5\uC9C0\uBB38"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.4.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC220 \uC57D\uC18D"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAE30\uC219\uC0AC(\uC0DD\uD65C\uAD00) \uC785\uC2E4 \uC790\uACA9\uC774 \uC81C\uD55C\uB418\uB294
+        \uC0AC\uC720\uAC00 \uC544\uB2CC \uAC83\uC740"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.5.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uCE59\uC5D0 \uC758\uD55C \uC9D5\uACC4 \uCC98\uBD84\uC744 \uBC1B\uC740
+        \uC790"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.5.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD1F4\uC2E4 \uCC98\uBD84\uC744 \uBC1B\uC740 \uC790"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.5.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC804\uC5FC\uBCD1 \uC9C8\uD658\uC790"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.5.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC9C1\uC804 \uD559\uAE30 \uD559\uC810 4.0 \uC774\uD558\uC778 \uC790"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uADDC\uC815\uC5D0 \uC758\uAC70\uD558\uC5EC \uAE30\uC219\uC0AC(\uC0DD\uD65C\uAD00)\uC5D0\uC11C
+        \uBC8C\uC810\uC744 \uBC1B\uB294 \uC0AC\uC720\uAC00 \uC544\uB2CC \uAC83\uC740"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.6.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD00\uB0B4 \uC8FC\uB958 \uBC18\uC785 \uBC0F \uC74C\uC8FC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.6.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC774\uC131 \uC0DD\uD65C\uAD00 \uBB34\uB2E8 \uCD9C\uC785"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.6.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD638\uC2E4\uB0B4 \uCC29\uD654\uD55C \uCC44 \uC0DD\uD65C"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.6.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBE44\uC815\uC0C1\uC801\uC778 \uD1B5\uB85C\uB97C \uD1B5\uD574 \uCD9C\uC785"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uACFC\uC640 \uD574\uB2F9 \uD559\uACFC\uC758 \uC878\uC5C5 \uD559\uB144\uC774
+        \uC633\uC9C0 \uC54A\uC740 \uAC83\uC744 \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.7.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uAC01\uB514\uC790\uC778\uD559\uACFC : 4\uD559\uB144"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.7.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC74\uCD95\uD559\uACFC : 4\uD559\uB144"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.7.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC57D\uD559\uACFC : 6\uD559\uB144"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.7.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD6D\uC81C\uD1B5\uC0C1\uD559\uACFC : 4\uD559\uB144"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2E4\uC74C \uC911 \uC878\uC5C5\uC694\uAC74\uC5D0 \uB17C\uBB38\uC774 \uBC18\uB4DC\uC2DC
+        \uD3EC\uD568\uB418\uC9C0 \uC54A\uB294 \uD559\uACFC\uB97C \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.8.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCCA0\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.8.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0DD\uBA85\uACFC\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.8.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCCB4\uC721\uAD50\uC721\uACFC"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.8.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAE30\uACC4\uACF5\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2E4\uC74C \uC911 '\uCEA1\uC2A4\uD1A4 \uB514\uC790\uC778'\uC774 \uC878\uC5C5
+        \uD544\uC218 \uACFC\uBAA9\uC778 \uC804\uACF5\uC744 \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.9.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACBD\uC601\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.9.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5ED\uC0AC\uAD50\uC721\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.9.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBBF8\uB514\uC5B4\uCEE4\uBBA4\uB2C8\uCF00\uC774\uC158\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.9.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCEF4\uD4E8\uD130\uACF5\uD559\uACFC"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2E4\uC74C \uC911 \uC878\uC5C5\uAE4C\uC9C0 \uAD6D\uAC00\uACE0\uC2DC\uB97C
+        \uBC18\uB4DC\uC2DC \uD1B5\uACFC\uD574\uC57C \uD558\uB294 \uC804\uACF5\uC744
+        \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.10.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC04\uD638\uD559\uACFC"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.10.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAE30\uACC4\uACF5\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.10.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC95\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.10.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBB38\uD5CC\uC815\uBCF4\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2E4\uC74C \uC911 6\uB144\uC81C \uD559\uC81C\uB85C \uC6B4\uC601\uB418\uB294
+        \uD559\uACFC\uAC00 \uC544\uB2CC \uAC83\uC744 \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.11.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC218\uC758\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.11.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD55C\uC758\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.11.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DD\uD488\uC601\uC591\uD559\uACFC"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.11.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCE58\uC758\uD559\uACFC"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2E4\uC74C \uC911 \uC11C\uB85C \uC5F0\uACB0\uB418\uC5B4 \uC788\uB294 \uAC74\uBB3C\uC774
+        \uC544\uB2CC \uAC83\uC744 \uACE0\uB974\uC2DC\uC624"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.12.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBBF8\uB798\uAD00"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.12.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACBD\uC0C1\uAD00"
+      - a
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.12.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC608\uC220\uAD00"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.12.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBCF5\uC9C0\uAD00"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.13
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.13.Choice.0
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.13.Choice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.13.Choice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question.Choice.13.Choice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
     CaseInsensitiveTerms: 0
     OnMissingTranslation: 1
     mTerm_AppName: 
-    mLanguages: []
+    mLanguages:
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
     IgnoreDeviceLanguage: 0
     _AllowUnloadingLanguages: 0
-    Google_WebServiceURL: 
-    Google_SpreadsheetKey: 
-    Google_SpreadsheetName: 
-    Google_LastUpdatedVersion: 
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbw79-Z8c3g-2IA_vQY_yt6jKtCOwahV6uvHjIwzCc9w_DvOIyfBmH_RIsNXgbhkTFvX/exec
+    Google_SpreadsheetKey: 1bFkHzzyKTUl6Q5aeIRYgWFCbpiKTDneGCl7vMHBoM-k
+    Google_SpreadsheetName: I2Loc WannaGraduate Localization
+    Google_LastUpdatedVersion: 1743259025253
     Google_Password: change_this
     GoogleUpdateFrequency: 3
     GoogleInEditorCheckFrequency: 2
